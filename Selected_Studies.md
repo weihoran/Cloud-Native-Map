@@ -44,7 +44,7 @@
 
 ## BOOKS
 
-- **[B1]** Titmus, M.A. *Cloud Native Go: Building Reliable Services in Unreliable Environments.* (2024).
+- **[B1]** Titmus, M.A. *Cloud Native Go, 2nd Edition: Building Reliable Services in Unreliable Environments.* (2024).
 
 - **[B2]** Indrasiri, K., Suhothayan, S. *Design Patterns for Cloud Native Applications: Patterns in Practice Using APIs, Data, Events, and Streams.* O’Reilly Media (2021).
 
