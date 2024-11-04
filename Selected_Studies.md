@@ -62,16 +62,16 @@
 
 ## INDUSTRY WHITEPAPERS
 
-- **[I1]** Edge Native Application Design Behaviors Whitepaper | CNCF. [https://www.cncf.io/reports/edge-native-application-design-behaviors-whitepaper/](https://www.cncf.io/reports/edge-native-application-design-behaviors-whitepaper/)
+- **[I1]** Edge Native Application Design Behaviors Whitepaper | CNCF (2024). [https://www.cncf.io/reports/edge-native-application-design-behaviors-whitepaper/](https://www.cncf.io/reports/edge-native-application-design-behaviors-whitepaper/)
 
-- **[I2]** Cloud Native Security Whitepaper | CNCF. [https://www.cncf.io/reports/cloud-native-security-whitepaper/](https://www.cncf.io/reports/cloud-native-security-whitepaper/)
+- **[I2]** Cloud Native Security Whitepaper | CNCF (2022). [https://www.cncf.io/reports/cloud-native-security-whitepaper/](https://www.cncf.io/reports/cloud-native-security-whitepaper/)
 
-- **[I3]** Technologies Overview | CNCF Radars. [https://radar.cncf.io/overview](https://radar.cncf.io/overview)
+- **[I3]** Technologies Overview | CNCF Radars (2021). [https://radar.cncf.io/overview](https://radar.cncf.io/overview)
 
-- **[I4]** CNCF Annual Reports 2017-2023 | CNCF. [https://www.cncf.io/reports/cncf-annual-report-2023/](https://www.cncf.io/reports/cncf-annual-report-2023/)
+- **[I4]** CNCF Annual Reports 2017-2023 | CNCF (2023). [https://www.cncf.io/reports/cncf-annual-report-2023/](https://www.cncf.io/reports/cncf-annual-report-2023/)
 
-- **[I5]** Best Practices: Cloud-Native App Modernization | Forrester. [https://www.forrester.com/report/the-forrester-guide-to-cloud-modernization/RES176025](https://www.forrester.com/report/the-forrester-guide-to-cloud-modernization/RES176025)
+- **[I5]** Best Practices: Cloud-Native App Modernization | Forrester (2024). [https://www.forrester.com/report/the-forrester-guide-to-cloud-modernization/RES176025](https://www.forrester.com/report/the-forrester-guide-to-cloud-modernization/RES176025)
 
-- **[I6]** Cloud-Native Technologies Reignite Portability Strategies | Forrester. [https://www.forrester.com/report/cloud-native-technologies-reignite-portability-strategies/RES175264](https://www.forrester.com/report/cloud-native-technologies-reignite-portability-strategies/RES175264)
+- **[I6]** Cloud-Native Technologies Reignite Portability Strategies | Forrester (2021). [https://www.forrester.com/report/cloud-native-technologies-reignite-portability-strategies/RES175264](https://www.forrester.com/report/cloud-native-technologies-reignite-portability-strategies/RES175264)
 
-- **[I7]** How to Design Your Cloud-Native Patterns for Resilience | Forrester. [https://www.forrester.com/report/how-to-design-your-cloud-native-patterns-for-resilience/RES179030](https://www.forrester.com/report/how-to-design-your-cloud-native-patterns-for-resilience/RES179030)
+- **[I7]** How to Design Your Cloud-Native Patterns for Resilience | Forrester (2023). [https://www.forrester.com/report/how-to-design-your-cloud-native-patterns-for-resilience/RES179030](https://www.forrester.com/report/how-to-design-your-cloud-native-patterns-for-resilience/RES179030)
