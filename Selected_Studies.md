@@ -10,7 +10,7 @@
 
 - **[P4]** Luigi Coppolino, Salvatore D’Antonio, Giovanni Mazzeo, Luigi Romano, "Cloud security: Emerging threats and current solutions," *Computers & Electrical Engineering*, vol. 59, 2017. [https://doi.org/10.1016/j.compeleceng.2016.03.004](https://doi.org/10.1016/j.compeleceng.2016.03.004)
 
-- **[P5]** C. Pahl, A. Brogi, J. Soldani and P. Jamshidi, "Cloud Container Technologies: A State-of-the-Art Review," in IEEE Transactions on Cloud Computing, vol. 7, no. 3, pp. 677-692, 1 July-Sept. 2019, doi: https://10.1109/TCC.2017.2702586.
+- **[P5]** C. Pahl, A. Brogi, J. Soldani and P. Jamshidi, "Cloud Container Technologies: A State-of-the-Art Review," in IEEE Transactions on Cloud Computing, vol. 7, no. 3, pp. 677-692, 1 July-Sept. 2019, doi: 10.1109/TCC.2017.2702586.
 
 - **[P6]** Thomas Welsh and Elhadj Benkhelifa. "On Resilience in Cloud Computing: A Survey of Techniques across the Cloud Domain." *ACM Computing Surveys*, vol. 53, no. 3, Article 59, May 2021. [https://doi.org/10.1145/3388922](https://doi.org/10.1145/3388922)
 
