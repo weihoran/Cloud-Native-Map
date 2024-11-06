@@ -73,3 +73,5 @@
 - **[I6]** Cloud-Native Technologies Reignite Portability Strategies | Forrester (2021). [https://www.forrester.com/report/cloud-native-technologies-reignite-portability-strategies/RES175264](https://www.forrester.com/report/cloud-native-technologies-reignite-portability-strategies/RES175264)
 
 - **[I7]** How to Design Your Cloud-Native Patterns for Resilience | Forrester (2023). [https://www.forrester.com/report/how-to-design-your-cloud-native-patterns-for-resilience/RES179030](https://www.forrester.com/report/how-to-design-your-cloud-native-patterns-for-resilience/RES179030)
+
+- **[I8]** Cloud Native Glossary, https://glossary.cncf.io/. 
