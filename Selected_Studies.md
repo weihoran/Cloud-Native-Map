@@ -46,19 +46,15 @@
 
 - **[B1]** Titmus, M.A. *Cloud Native Go, 2nd Edition: Building Reliable Services in Unreliable Environments.* (2024).
 
-- **[B2]** Indrasiri, K., Suhothayan, S. *Design Patterns for Cloud Native Applications: Patterns in Practice Using APIs, Data, Events, and Streams.* O’Reilly Media (2021).
+- **[B2]** Domingus, J., Arundel, J.: Cloud Native DevOps with Kubernetes: Building, Deploying, and Scaling Modern Applications in the Cloud. O’Reilly Media (2022).
 
 - **[B3]** Team, F.B.-U. *Cloud-Native Application Architecture: Microservice Development Best Practice.* Springer (2024).
 
-- **[B4]** Gilbert, J. *Cloud Native Development Patterns and Best Practices.* (2018).
+- **[B4]** Ahmed, M.I. *Cloud-Native DevOps: Building Scalable and Reliable Applications.* Springer Nature (2024).
 
-- **[B5]** Laszewski, T., Arora, K., Farr, E., Zonooz, P. *Cloud Native Architectures: Design High-Availability and Cost-effective Applications for the Cloud.* Packt Publishing (2018).
+- **[B5]** Hausenblas, M. *Cloud Observability in Action.* Simon and Schuster (2023).
 
-- **[B6]** Ahmed, M.I. *Cloud-Native DevOps: Building Scalable and Reliable Applications.* Springer Nature (2024).
-
-- **[B7]** Hausenblas, M. *Cloud Observability in Action.* Simon and Schuster (2023).
-
-- **[B8]** Shah, Mihir. *Cloud Native Software Security Handbook: Unleash the Power of Cloud Native Tools for Robust Security in Modern Applications.* (2023).
+- **[B6]** Shah, Mihir. *Cloud Native Software Security Handbook: Unleash the Power of Cloud Native Tools for Robust Security in Modern Applications.* (2023).
 
 ## INDUSTRY WHITEPAPERS
 
