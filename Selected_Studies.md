@@ -42,6 +42,8 @@
 
 - **[P20]** W. Hasselbring and G. Steinacker, "Microservice Architectures for Scalability, Agility and Reliability in E-Commerce," *2017 IEEE International Conference on Software Architecture Workshops (ICSAW)*, Gothenburg, Sweden, 2017, pp. 243-246. [https://doi.org/10.1109/ICSAW.2017.11](https://doi.org/10.1109/ICSAW.2017.11)
 
+- **[P20]** Li, S., Zhang, H., Jia, Z., Zhong, C., Zhang, C., Shan, Z., Shen, J., Babar, M.A.: Understanding and addressing quality attributes of microservices architecture: A Systematic literature review. Information and Software Technology. 131, 106449 (2020). https://doi.org/10.1016/j.infsof.2020.106449.
+
 ## BOOKS
 
 - **[B1]** Titmus, M.A. *Cloud Native Go, 2nd Edition: Building Reliable Services in Unreliable Environments.* (2024).
