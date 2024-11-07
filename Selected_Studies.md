@@ -44,6 +44,14 @@
 
 - **[P21]** Li, S., Zhang, H., Jia, Z., Zhong, C., Zhang, C., Shan, Z., Shen, J., Babar, M.A.: Understanding and addressing quality attributes of microservices architecture: A Systematic literature review. Information and Software Technology. 131, 106449 (2020). https://doi.org/10.1016/j.infsof.2020.106449.
 
+- **[P22]** W. Li, Y. Lemieux, J. Gao, Z. Zhao and Y. Han, "Service Mesh: Challenges, State of the Art, and Future Research Opportunities," 2019 IEEE International Conference on Service-Oriented System Engineering (SOSE), San Francisco, CA, USA, 2019, pp. 122-1225, doi: 10.1109/SOSE.2019.00026.
+
+- **[P23]** Y. Pan, I. Chen, F. Brasileiro, G. Jayaputera and R. Sinnott, "A Performance Comparison of Cloud-Based Container Orchestration Tools," 2019 IEEE International Conference on Big Knowledge (ICBK), Beijing, China, 2019, pp. 191-198, doi: 10.1109/ICBK.2019.00033.
+
+- **[P24]** F. Zampetti, S. Geremia, G. Bavota and M. Di Penta, "CI/CD Pipelines Evolution and Restructuring: A Qualitative and Quantitative Study," 2021 IEEE International Conference on Software Maintenance and Evolution (ICSME), Luxembourg, 2021, pp. 471-482, doi: 10.1109/ICSME52107.2021.00048.
+
+- **[P25]** M. Guerriero, M. Garriga, D. A. Tamburri and F. Palomba, "Adoption, Support, and Challenges of Infrastructure-as-Code: Insights from Industry," 2019 IEEE International Conference on Software Maintenance and Evolution (ICSME), Cleveland, OH, USA, 2019, pp. 580-589, doi: 10.1109/ICSME.2019.00092.
+
 ## BOOKS
 
 - **[B1]** Titmus, M.A. *Cloud Native Go, 2nd Edition: Building Reliable Services in Unreliable Environments.* (2024).
@@ -64,14 +72,37 @@
 
 - **[I2]** Cloud Native Security Whitepaper | CNCF (2022). [https://www.cncf.io/reports/cloud-native-security-whitepaper/](https://www.cncf.io/reports/cloud-native-security-whitepaper/)
 
-- **[I3]** Technologies Overview | CNCF Radars (2021). [https://radar.cncf.io/overview](https://radar.cncf.io/overview)
+- **[I3]** CNCF Annual Survey 2023 | CNCF (2023). https://www.cncf.io/reports/cncf-annual-survey-2023/
 
-- **[I4]** CNCF Annual Reports 2017-2023 | CNCF (2023). [https://www.cncf.io/reports/cncf-annual-report-2023/](https://www.cncf.io/reports/cncf-annual-report-2023/)
+- **[I4]** CNCF Annual Survey 2022 | CNCF (2022). https://www.cncf.io/reports/cncf-annual-survey-2022/
+  
+- **[I5]** CNCF Annual Survey 2021 | CNCF (2021). https://www.cncf.io/reports/cncf-annual-survey-2021/
 
-- **[I5]** Best Practices: Cloud-Native App Modernization | Forrester (2024). [https://www.forrester.com/report/the-forrester-guide-to-cloud-modernization/RES176025](https://www.forrester.com/report/the-forrester-guide-to-cloud-modernization/RES176025)
+- **[I6]** Cloud Native Glossary, | CNCF,  https://glossary.cncf.io/.
 
-- **[I6]** Cloud-Native Technologies Reignite Portability Strategies | Forrester (2021). [https://www.forrester.com/report/cloud-native-technologies-reignite-portability-strategies/RES175264](https://www.forrester.com/report/cloud-native-technologies-reignite-portability-strategies/RES175264)
+- **[I7]** Cloud Native Landscape, | CNCF, https://landscape.cncf.io/guide#introduction
 
-- **[I7]** How to Design Your Cloud-Native Patterns for Resilience | Forrester (2023). [https://www.forrester.com/report/how-to-design-your-cloud-native-patterns-for-resilience/RES179030](https://www.forrester.com/report/how-to-design-your-cloud-native-patterns-for-resilience/RES179030)
+- **[I8]** CNCF MicroSurvey: Service meshes are on the rise — but greater understanding and experience are required. (2022). [https://www.cncf.io/wp-content/uploads/2022/05/CNCF_Service_Mesh_MicroSurvey_Final.pdf](https://www.cncf.io/wp-content/uploads/2022/05/CNCF_Service_Mesh_MicroSurvey_Final.pdf)
 
-- **[I8]** Cloud Native Glossary, https://glossary.cncf.io/. 
+- **[I9]** The future of API gateways on Kubernetes. (2023) | CNCF, https://www.cncf.io/blog/2023/08/14/the-future-of-api-gateways-on-kubernetes/.
+
+- **[I10]** What is Infrastructure as Code? - IaC Explained - AWS, https://aws.amazon.com/what-is/iac/.
+
+- **[I11]** Technology Evaluation: Continuous Delivery (2020) | CNCF Radars, https://radar.cncf.io/2020-06-continuous-delivery.
+
+- **[I12]** Kubernetes documentation, https://kubernetes.io/docs/home/.
+
+- **[I13]** Docker guides, https://docs.docker.com/manuals/.
+
+- **[I14]** Serverless Computing – Amazon Web Services, https://aws.amazon.com/serverless/.
+
+
+
+
+
+
+
+
+
+
+
