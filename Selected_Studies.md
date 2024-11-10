@@ -52,6 +52,8 @@
 
 - **[P25]** M. Guerriero, M. Garriga, D. A. Tamburri and F. Palomba, "Adoption, Support, and Challenges of Infrastructure-as-Code: Insights from Industry," 2019 IEEE International Conference on Software Maintenance and Evolution (ICSME), Cleveland, OH, USA, 2019, pp. 580-589, https://doi.org/10.1109/ICSME.2019.00092.
 
+-  **[P26]** H. Kang, M. Le, and S. Tao. ”Container and microservice driven design for cloud infrastructure devops”. In: 2016 IEEE International Conference on Cloud Engineering (IC2E), pp. 202–211, IEEE, 2016. https://doi.org/10.1109/IC2E.2016.26.
+
 ## BOOKS
 
 - **[B1]** Titmus, M.A. *Cloud Native Go, 2nd Edition: Building Reliable Services in Unreliable Environments.* (2024).
