@@ -1,4 +1,7 @@
-# SELECTED STUDIES
+# Selected Literature for A Map of Cloud-Native Practice Domains, Practices, and Tools to Address Desirable System Qualities
+
+
+This list comprises 44 Papers, 6 books, 12 Grary Literatue
 
 ## PAPERS
 
