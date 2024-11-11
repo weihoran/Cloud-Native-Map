@@ -1,5 +1,6 @@
 # Selected Literature 
-### This list comprises 44 papers, 6 books, 12 grary literatue
+
+### This collection comprises 44 papers, 6 books, and 12 grey literature sources, which were selected and analyzed to serve as the knowledge foundation for mapping cloud-native practices, tools, and quality attributes.
 
 ## Papers
 
