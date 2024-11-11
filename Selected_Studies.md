@@ -1,6 +1,6 @@
 # Selected Literature 
 
-### This collection comprises 44 papers, 6 books, and 12 grey literature sources, which were selected and analyzed to serve as the knowledge foundation for mapping cloud-native practices, tools, and quality attributes.
+### This collection comprises 44 papers, 6 books, and 12 grey literature documents, which were selected and analyzed to serve as the knowledge foundation for mapping cloud-native practices, tools, and quality attributes.
 
 ## Papers
 
@@ -106,7 +106,7 @@
 
 - **[B6]** Shah, Mihir. *Cloud Native Software Security Handbook: Unleash the Power of Cloud Native Tools for Robust Security in Modern Applications.* (2023).
 
-## Gray Literature
+## Grey Literature
 
 - **[I1]** Edge Native Application Design Behaviors Whitepaper | CNCF (2024). [https://www.cncf.io/reports/edge-native-application-design-behaviors-whitepaper/](https://www.cncf.io/reports/edge-native-application-design-behaviors-whitepaper/)
 
