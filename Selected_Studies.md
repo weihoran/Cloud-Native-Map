@@ -86,6 +86,9 @@
 
 - **[P42]** Bento, A., Correia, J., Filipe, R. et al. Automated Analysis of Distributed Tracing: Challenges and Research Directions. J Grid Computing 19, 9 (2021). https://doi.org/10.1007/s10723-021-09551-5
 
+- **[P43]** Kumara, Indika, et al. "The do’s and don’ts of infrastructure code: A systematic gray literature review." Information and Software Technology 137 (2021): 106593. 
+
+- **[P44]** Singh, Amarjeet, et al. "Event Driven Architecture for Message Streaming data driven Microservices systems residing in distributed version control system." 2022 International Conference on Innovations in Science and Technology for Sustainable Development (ICISTSD). IEEE, 2022.
 
 ## BOOKS
 
