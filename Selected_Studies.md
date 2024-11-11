@@ -107,7 +107,7 @@
 
 - **[I2]** Cloud Native Security Whitepaper | CNCF (2022). [https://www.cncf.io/reports/cloud-native-security-whitepaper/](https://www.cncf.io/reports/cloud-native-security-whitepaper/)
 
-- **[I3]** CNCF Annual Survey 2023 | CNCF (2023). https://www.cncf.io/reports/cncf-annual-survey-2023/
+- **[I3]** CNCF Annual Surveys 2023 | CNCF (2023). https://www.cncf.io/reports/cncf-annual-survey-2023/
 
 - **[I4]** CNCF Annual Survey 2022 | CNCF (2022). https://www.cncf.io/reports/cncf-annual-survey-2022/
   
@@ -126,20 +126,5 @@
 - **[I11]** What is Infrastructure as Code? - IaC Explained - AWS, https://aws.amazon.com/what-is/iac/.
 
 - **[I12]** Technology Evaluation: Continuous Delivery (2020) | CNCF Radars, https://radar.cncf.io/2020-06-continuous-delivery.
-
-- **[I13]** Kubernetes documentation, https://kubernetes.io/docs/home/.
-
-- **[I14]** Docker guides, https://docs.docker.com/manuals/.
-
-- **[I15]** Serverless Computing – Amazon Web Services, https://aws.amazon.com/serverless/.
-
-
-
-
-
-
-
-
-
 
 
