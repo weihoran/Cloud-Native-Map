@@ -1,9 +1,7 @@
-# Selected Literature for A Map of Cloud-Native Practice Domains, Practices, and Tools to Address Desirable System Qualities
+# Selected Literature 
+### This list comprises 44 papers, 6 books, 12 grary literatue
 
-
-This list comprises 44 Papers, 6 books, 12 Grary Literatue
-
-## PAPERS
+## Papers
 
 - **[P1]** Lichtenthäler, R., Wirtz, G. Formulating a quality model for cloud-native software architectures: conceptual and methodological considerations. *Cluster Computing* **27**, 4077–4093 (2024). [https://doi.org/10.1007/s10586-024-04343-4](https://doi.org/10.1007/s10586-024-04343-4)
 
@@ -93,7 +91,7 @@ This list comprises 44 Papers, 6 books, 12 Grary Literatue
 
 - **[P44]** Singh, Amarjeet, et al. "Event Driven Architecture for Message Streaming data driven Microservices systems residing in distributed version control system." 2022 International Conference on Innovations in Science and Technology for Sustainable Development (ICISTSD). IEEE, 2022.
 
-## BOOKS
+## Books
 
 - **[B1]** Titmus, M.A. *Cloud Native Go, 2nd Edition: Building Reliable Services in Unreliable Environments.* (2024).
 
@@ -107,7 +105,7 @@ This list comprises 44 Papers, 6 books, 12 Grary Literatue
 
 - **[B6]** Shah, Mihir. *Cloud Native Software Security Handbook: Unleash the Power of Cloud Native Tools for Robust Security in Modern Applications.* (2023).
 
-## INDUSTRY WHITEPAPERS
+## Gray Literature
 
 - **[I1]** Edge Native Application Design Behaviors Whitepaper | CNCF (2024). [https://www.cncf.io/reports/edge-native-application-design-behaviors-whitepaper/](https://www.cncf.io/reports/edge-native-application-design-behaviors-whitepaper/)
 
