@@ -52,7 +52,36 @@
 
 - **[P25]** M. Guerriero, M. Garriga, D. A. Tamburri and F. Palomba, "Adoption, Support, and Challenges of Infrastructure-as-Code: Insights from Industry," 2019 IEEE International Conference on Software Maintenance and Evolution (ICSME), Cleveland, OH, USA, 2019, pp. 580-589, https://doi.org/10.1109/ICSME.2019.00092.
 
--  **[P26]** H. Kang, M. Le, and S. Tao. ”Container and microservice driven design for cloud infrastructure devops”. In: 2016 IEEE International Conference on Cloud Engineering (IC2E), pp. 202–211, IEEE, 2016. https://doi.org/10.1109/IC2E.2016.26.
+- **[P26]** H. Kang, M. Le, and S. Tao. ”Container and microservice driven design for cloud infrastructure devops”. In: 2016 IEEE International Conference on Cloud Engineering (IC2E), pp. 202–211, IEEE, 2016. https://doi.org/10.1109/IC2E.2016.26.
+
+- **[P27]** C. Guerrero, I. Lera, and C. Juiz. ”Resource optimization of container orchestration: a case study in multi-cloud microservicesbased applications”. The Journal of Supercomputing, Vol. 74, No. 7, pp. 2956–2983, 2018.
+
+- **[P28]** S. Haselböck and R. Weinreich, "Decision Guidance Models for Microservice Monitoring," 2017 IEEE International Conference on Software Architecture Workshops (ICSAW), Gothenburg, Sweden, 2017, pp. 54-61, doi: 10.1109/ICSAW.2017.31.  
+
+- **[P29]** Stefan Haselböck, Rainer Weinreich, and Georg Buchgeher. 2017. Decision guidance models for microservices: service discovery and fault tolerance. In Proceedings of the Fifth European Conference on the Engineering of Computer-Based Systems (ECBS '17). Association for Computing Machinery, New York, NY, USA, Article 4, 1–10. https://doi.org/10.1145/3123779.3123804
+
+- **[P30]** K. Jander, L. Braubach, and A. Pokahr. ”Defense-in-depth and Role Authentication for Microservice Systems”. Procedia computer science, Vol. 130, No. C, pp. 456–463, 2018.
+
+- **[P31]** W. Lloyd, S. Ramesh, S. Chinthalapati, L. Ly, and S. Pallickara. ”Serverless computing: An investigation of factors influencing microservice performance”. In: 2018 IEEE International Conference on Cloud Engineering (IC2E), pp. 159–169, IEEE, 2018. 
+
+- **[P32]** C. Phipathananunth and P. Bunyakiati. ”Synthetic Runtime Monitoring of Microservices Software Architecture”. In: 2018 IEEE 42nd Annual Computer Software and Applications Conference (COMPSAC), pp. 448–453, IEEE, 2018. 
+
+- **[P33]** K. A. Torkura, M. I. Sukmana, and C. Meinel. ”Integrating continuous security assessments in microservices and cloud native applications”. In: Proceedings of the10th International Conference on Utility and Cloud Computing, pp. 171–180, ACM, 2017.
+
+- **[P34]** T. Yarygina and A. H. Bagge. ”Overcoming security challenges in microservice architectures”. In: 2018 IEEE Symposium on Service-Oriented System Engineering (SOSE), pp. 11–20, IEEE, 2018.
+
+- **[P35]** örn Kuhlenkamp, Sebastian Werner, Maria C. Borges, Karim El Tal, and Stefan Tai. 2019. An Evaluation of FaaS Platforms as a Foundation for Serverless Big Data Processing. In Proceedings of the 12th IEEE/ACM International Conference on Utility and Cloud Computing (UCC'19). Association for Computing Machinery, New York, NY, USA, 1–9. https://doi.org/10.1145/3344341.3368796
+
+- **[P36]** Ntentos, E., Zdun, U., Plakidas, K., Meixner, S., Geiger, S. (2020). Metrics for Assessing Architecture Conformance to Microservice Architecture Patterns and Practices. In: Kafeza, E., Benatallah, B., Martinelli, F., Hacid, H., Bouguettaya, A., Motahari, H. (eds) Service-Oriented Computing. ICSOC 2020. Lecture Notes in Computer Science(), vol 12571. Springer, Cham. https://doi.org/10.1007/978-3-030-65310-1_42
+
+- **[P37]** Slimani, S., Hamrouni, T. & Ben Charrada, F. Service-oriented replication strategies for improving quality-of-service in cloud computing: a survey. Cluster Comput 24, 361–392 (2021). https://doi.org/10.1007/s10586-020-03108-z
+
+- **[P38]** Uwe Zdun, Pierre-Jean Queval, Georg Simhandl, Riccardo Scandariato, Somik Chakravarty, Marjan Jelic, and Aleksandar Jovanovic. 2023. Microservice Security Metrics for Secure Communication, Identity Management, and Observability. ACM Trans. Softw. Eng. Methodol. 32, 1, Article 16 (January 2023), 34 pages. https://doi.org/10.1145/3532183
+
+- **[P39]** Apel, S., Hertrampf, F., Späthe, S. (2019). Towards a Metrics-Based Software Quality Rating for a Microservice Architecture. In: Lüke, KH., Eichler, G., Erfurth, C., Fahrnberger, G. (eds) Innovations for Community Services. I4CS 2019. Communications in Computer and Information Science, vol 1041. Springer, Cham. https://doi.org/10.1007/978-3-030-22482-0_15
+
+- **[P40]** Ntentos, E., Zdun, U., Plakidas, K., Meixner, S., Geiger, S. (2020). Assessing Architecture Conformance to Coupling-Related Patterns and Practices in Microservices. In: Jansen, A., Malavolta, I., Muccini, H., Ozkaya, I., Zimmermann, O. (eds) Software Architecture. ECSA 2020. Lecture Notes in Computer Science(), vol 12292. Springer, Cham. https://doi.org/10.1007/978-3-030-58923-3_1
+
 
 ## BOOKS
 
