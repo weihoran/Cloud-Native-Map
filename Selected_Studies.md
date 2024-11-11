@@ -82,6 +82,10 @@
 
 - **[P40]** Ntentos, E., Zdun, U., Plakidas, K., Meixner, S., Geiger, S. (2020). Assessing Architecture Conformance to Coupling-Related Patterns and Practices in Microservices. In: Jansen, A., Malavolta, I., Muccini, H., Ozkaya, I., Zimmermann, O. (eds) Software Architecture. ECSA 2020. Lecture Notes in Computer Science(), vol 12292. Springer, Cham. https://doi.org/10.1007/978-3-030-58923-3_1
 
+- **[P41]** Ntentos, E., Zdun, U., Plakidas, K., Geiger, S. (2021). Evaluating and Improving Microservice Architecture Conformance to Architectural Design Decisions. In: Hacid, H., Kao, O., Mecella, M., Moha, N., Paik, Hy. (eds) Service-Oriented Computing. ICSOC 2021. Lecture Notes in Computer Science(), vol 13121. Springer, Cham. https://doi.org/10.1007/978-3-030-91431-8_12
+
+- **[P42]** Bento, A., Correia, J., Filipe, R. et al. Automated Analysis of Distributed Tracing: Challenges and Research Directions. J Grid Computing 19, 9 (2021). https://doi.org/10.1007/s10723-021-09551-5
+
 
 ## BOOKS
 
