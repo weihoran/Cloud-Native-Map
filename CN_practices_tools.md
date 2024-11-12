@@ -48,9 +48,9 @@ Use meaningful tags to track and manage image versions effectively.
   - Harbor
   - Amazon ECR
 
-## Container Management  
+## Container Image Management  
 
-This domain focuses on the management practices of container images. 
+This domain focuses on the practices for maintaining container images. 
 
 #### Container Registry
 
