@@ -13,33 +13,44 @@
 
 ---
 
-## Containerization
+## Container Construction  
 
-Containerization is the process of packaging applications with their dependencies into isolated units called containers, which can run consistently across different computing environments.
+This domain focuses on the creation and building of container images. It involves packaging applications along with all necessary dependencies into a container image that can be consistently deployed across various environments.
 
 ### Specific Practices
 
-#### Container Image
+#### Minimize Base Image
 
-A lightweight, standalone, executable package that includes everything needed to run a piece of software, ensuring consistency across environments.
+Start with lightweight base images to reduce image size and minimize vulnerabilities.
 
-- **Quality Attributes:** PO; MA
+- **Quality Attributes:** Performance Efficiency
+- **Commonly Adopted Tools:**
+  - Alpine Linux
+  - Distroless Images
+
+#### Multi-Stage Build
+
+Separate build-time and runtime dependencies to create smaller, more secure images.
+
+- **Quality Attributes:** Maintainability
 - **Commonly Adopted Tools:**
   - Docker
-  - Buildah
+  - BuildKit
   - Kaniko
-  - Podman
 
-#### Container Runtime
+#### Image Versioning and Tagging
 
-Software that executes containers and manages container images on a node, facilitating container operations.
+Use meaningful tags to track and manage image versions effectively.
 
-- **Quality Attributes:** SC; PE
+- **Quality Attributes:** Reliability; Maintainability
 - **Commonly Adopted Tools:**
-  - containerd
-  - CRI-O
-  - Docker Engine
-  - runc
+  - Docker Hub
+  - Harbor
+  - Amazon ECR
+
+## Container Management  
+
+This domain focuses on the management practices of container images. 
 
 #### Container Registry
 
@@ -50,10 +61,10 @@ A repository for storing, distributing, and managing container images securely a
   - Docker Hub
   - Harbor
   - Amazon ECR
-  - Google Container Registry
-  - Quay.io
+  - Azure Container Registry
 
-#### Container Image Security Scanning
+
+#### Container Image Scanning
 
 Scanning container images for vulnerabilities and compliance before deployment to ensure security standards are met.
 
@@ -63,18 +74,15 @@ Scanning container images for vulnerabilities and compliance before deployment t
   - Trivy
   - Anchore
   - Aqua Security
-  - Sysdig Secure
 
-#### Image Versioning and Tagging
+#### Container Access Control
 
-Implementing consistent tagging strategies for container images to manage versions, enabling traceability and easy rollbacks.
+Restrict access to container images to prevent unauthorized usage and maintain security.
 
-- **Quality Attributes:** MA; RE
+- **Quality Attributes:** Security; Maintainability
 - **Commonly Adopted Tools:**
-  - Docker
-  - GitLab Container Registry
-  - Artifactory
   - Harbor
+  - Kubernetes RBAC
 
 ---
 
