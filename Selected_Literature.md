@@ -108,28 +108,28 @@
 
 ## Grey Literature
 
-- **[I1]** Edge Native Application Design Behaviors Whitepaper | CNCF (2024). [https://www.cncf.io/reports/edge-native-application-design-behaviors-whitepaper/](https://www.cncf.io/reports/edge-native-application-design-behaviors-whitepaper/)
+- **[G1]** Edge Native Application Design Behaviors Whitepaper | CNCF (2024). [https://www.cncf.io/reports/edge-native-application-design-behaviors-whitepaper/](https://www.cncf.io/reports/edge-native-application-design-behaviors-whitepaper/)
 
-- **[I2]** Cloud Native Security Whitepaper | CNCF (2022). [https://www.cncf.io/reports/cloud-native-security-whitepaper/](https://www.cncf.io/reports/cloud-native-security-whitepaper/)
+- **[G2]** Cloud Native Security Whitepaper | CNCF (2022). [https://www.cncf.io/reports/cloud-native-security-whitepaper/](https://www.cncf.io/reports/cloud-native-security-whitepaper/)
 
-- **[I3]** CNCF Annual Surveys 2023 | CNCF (2023). https://www.cncf.io/reports/cncf-annual-survey-2023/
+- **[G3]** CNCF Annual Surveys 2023 | CNCF (2023). https://www.cncf.io/reports/cncf-annual-survey-2023/
 
-- **[I4]** CNCF Annual Survey 2022 | CNCF (2022). https://www.cncf.io/reports/cncf-annual-survey-2022/
+- **[G4]** CNCF Annual Survey 2022 | CNCF (2022). https://www.cncf.io/reports/cncf-annual-survey-2022/
   
-- **[I5]** CNCF Annual Survey 2021 | CNCF (2021). https://www.cncf.io/reports/cncf-annual-survey-2021/
+- **[G5]** CNCF Annual Survey 2021 | CNCF (2021). https://www.cncf.io/reports/cncf-annual-survey-2021/
 
-- **[I6]** Cloud Native Glossary, | CNCF,  https://glossary.cncf.io/.
+- **[G6]** Cloud Native Glossary, | CNCF,  https://glossary.cncf.io/.
 
-- **[I7]** Cloud Native Landscape, | CNCF, https://landscape.cncf.io/guide#introduction
+- **[G7]** Cloud Native Landscape, | CNCF, https://landscape.cncf.io/guide#introduction
 
-- **[I8]** CNCF MicroSurvey: Service meshes are on the rise — but greater understanding and experience are required. (2022). [https://www.cncf.io/wp-content/uploads/2022/05/CNCF_Service_Mesh_MicroSurvey_Final.pdf](https://www.cncf.io/wp-content/uploads/2022/05/CNCF_Service_Mesh_MicroSurvey_Final.pdf)
+- **[G8]** CNCF MicroSurvey: Service meshes are on the rise — but greater understanding and experience are required. (2022). [https://www.cncf.io/wp-content/uploads/2022/05/CNCF_Service_Mesh_MicroSurvey_Final.pdf](https://www.cncf.io/wp-content/uploads/2022/05/CNCF_Service_Mesh_MicroSurvey_Final.pdf)
 
 - **[9]** CNCF GitOps microsurvey (2023), https://www.cncf.io/reports/gitops-microsurvey/ 
 
-- **[I10]** The future of API gateways on Kubernetes. (2023) | CNCF, https://www.cncf.io/blog/2023/08/14/the-future-of-api-gateways-on-kubernetes/.
+- **[G10]** The future of API gateways on Kubernetes. (2023) | CNCF, https://www.cncf.io/blog/2023/08/14/the-future-of-api-gateways-on-kubernetes/.
 
-- **[I11]** What is Infrastructure as Code? - IaC Explained - AWS, https://aws.amazon.com/what-is/iac/.
+- **[G11]** What is Infrastructure as Code? - IaC Explained - AWS, https://aws.amazon.com/what-is/iac/.
 
-- **[I12]** Technology Evaluation: Continuous Delivery (2020) | CNCF Radars, https://radar.cncf.io/2020-06-continuous-delivery.
+- **[G12]** Technology Evaluation: Continuous Delivery (2020) | CNCF Radars, https://radar.cncf.io/2020-06-continuous-delivery.
 
 
