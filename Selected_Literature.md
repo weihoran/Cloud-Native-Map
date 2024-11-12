@@ -124,7 +124,7 @@
 
 - **[G8]** CNCF MicroSurvey: Service meshes are on the rise — but greater understanding and experience are required. (2022). [https://www.cncf.io/wp-content/uploads/2022/05/CNCF_Service_Mesh_MicroSurvey_Final.pdf](https://www.cncf.io/wp-content/uploads/2022/05/CNCF_Service_Mesh_MicroSurvey_Final.pdf)
 
-- **[9]** CNCF GitOps microsurvey (2023), https://www.cncf.io/reports/gitops-microsurvey/ 
+- **[G9]** CNCF GitOps microsurvey (2023), https://www.cncf.io/reports/gitops-microsurvey/ 
 
 - **[G10]** The future of API gateways on Kubernetes. (2023) | CNCF, https://www.cncf.io/blog/2023/08/14/the-future-of-api-gateways-on-kubernetes/.
 
