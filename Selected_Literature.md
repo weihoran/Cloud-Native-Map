@@ -103,7 +103,7 @@
 - **[B4]** Ahmed, M.I. *Cloud-Native DevOps: Building Scalable and Reliable Applications.* Springer Nature (2024).
 
 - **[B5]** Indrasiri, Kasun, and Sriskandarajah Suhothayan. Design Patterns for Cloud Native Applications. " O'Reilly Media, Inc.", 2021.
-- 
+
 - **[B6]** Shah, Mihir. *Cloud Native Software Security Handbook: Unleash the Power of Cloud Native Tools for Robust Security in Modern Applications.* (2023).
 
 ## Grey Literature
