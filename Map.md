@@ -1,4 +1,4 @@
-# A Map of Cloud-Native Practice Domains, Practices, and Tools to Address Desirable System Qualities
+# A Map of Cloud-Native Practices and Tools to Address Desirable System Qualities
 
 ### This map contains 16 practice domains, 87 specific practices, and 181 associated tools for addressing 8 system qualities.
 
