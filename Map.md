@@ -17,7 +17,7 @@
 
 ## Container Construction  
 
-This domain focuses on the creation and building of container images. It involves packaging applications along with all necessary dependencies into a container image that can be consistently deployed across various environments.
+The process of creating container images, involving the definition of application environments and dependencies to produce lightweight, portable, and consistent execution units.
 
 ### Specific Practices
 
