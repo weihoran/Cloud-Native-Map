@@ -52,7 +52,7 @@ Use meaningful tags to track and manage image versions effectively.
 
 ## Container Image Management  
 
-This domain focuses on the practices for maintaining container images. 
+The practices related to storing, distributing, versioning, and securing container images, ensuring that the correct and secure versions of images are used in deployments.
 
 #### Container Registry
 
@@ -90,7 +90,7 @@ Restrict access to container images to prevent unauthorized usage and maintain s
 
 ## Container Orchestration
 
-Automates the deployment, scaling, networking, and management of containerized applications across clusters.
+The automated management and coordination of containerized applications across clusters of hosts, ensuring optimal deployment, scaling, and operation of containers.
 
 ### Specific Practices
 
@@ -306,7 +306,7 @@ Replicates live traffic to a service version to test changes under real-world co
 
 ## API Gateway
 
-A server that acts as an entry point for APIs, handling request routing, composition, and protocol translation.
+A server that acts as a single entry point for client requests, aggregating multiple services, handling protocol translations, and enforcing security and rate limiting policies.
 
 ### Specific Practices
 
