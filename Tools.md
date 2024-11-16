@@ -40,7 +40,9 @@ Creating optimized, secure, and maintainable container images tailored for speci
 
 ### Vendor-Dependent Tools
 
-*No vendor-dependent tools listed for Container Construction.*
+- [**AWS CodeBuild**](https://aws.amazon.com/codebuild/): A fully managed build service by Amazon Web Services that compiles source code, runs tests, and produces software packages, including Docker container images, as part of CI/CD pipelines.
+
+- [**Azure Container Registry Tasks**](https://docs.microsoft.com/en-us/azure/container-registry/container-registry-tasks-overview): A feature of Azure Container Registry that allows you to automate image builds and updates directly within the registry using Dockerfile-based or buildpacks-based tasks.
 
 ---
 
