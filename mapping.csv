@@ -1,0 +1,80 @@
+High-Level Practice,Sub-Practice,Quality Attributes,Commonly Adopted Tools
+Container Construction,Environment Abstraction,Portability,Docker; Podman
+Container Construction,Minimize Base Image,Performance Efficiency,Alpine Linux; Distroless Images
+Container Construction,Multi-Stage Image Build,Portability; Maintainability,Docker; Buildkit; Kaniko; Podman
+Container Construction,Image Versioning and Tagging,Reliability; Maintainability,Docker Hub; Harbor; Amazon ECR; Google Container 
+Container Image Management,Container Image  Scanning,Security,Trivy; Aqua Security; Clair
+Container Image Management,Contianer Access Control,Security; Maintainability,Harbor; Kubernetes RBAC
+Container Image Management,Private  Container Registry,Portability; Maintainability; Reliability,Harbor; Amazon ECR; Azure Registry
+Container Orchestration,Horizontal/Vertical Autoscaling,Scalability; Performance Efficiency; Reliability,Kubernetes HPA/VPA; KEDA
+Container Orchestration,Storage Orchestration,Reliability; Scalability,Kubernetes Persistent Volumes; Storage Classes; Rook; Longhorn
+Container Orchestration,Layer 4 Load Balancing,Scalability; Reliability; Performance Efficiency,Kubernetes Services; MetalLB; Calico; HAProxy
+Container Orchestration,Dynamic Resource Allocation,Performance Efficiency; Reliability; Scalability,Kubernetes Scheduler
+Container Orchestration,Replication Planning,Reliability; Resilience,Kubernetes Deployments; StatefulSets; ReplicaSets
+Container Orchestration,Package Management,Maintainability; Portability,Helm; Kustomize; Operator Framework
+Container Orchestration,"Self-Healing, Rollbacks, Rollouts",Reliability; Resilience,Kubernetes Deployments; Argo Rollouts;
+Container Orchestration,Configuration Management,Maintainability; Portability,Kubernetes ConfigMaps; etcd; Consul
+Container Orchestration,Audit Logging,Security; Observability,Kubernetes auditing
+Container Orchestration,Secret Management,Security,Kubernetes Secrets; HashiCorp Vault; AWS Secrets Manager; Azure Key Vault;
+Container Orchestration,Encryption and Key Management,Security,HashiCorp Vault; AWS KMS; Azure Key Vault;
+Container Orchestration,Network Policy Enforcement,Security; Reliability,Calico;Open Policy Agent; Kyverno
+Container Orchestration,Health Checks,Reliability; Resilience,Kubernetes Liveness Probes; Readiness Probes; Startup Probes
+Service Mesh,Layer 7 Load Balancing,Scalability; Reliability; Performance Efficiency,Istio; Linkerd; Consul;
+Service Mesh,Retries & Timeouts,Reliability; Security; Performance Efficiency,Istio; Envoy Proxy; Linkerd
+Service Mesh,Circuit Breaking,Resilience; Reliability,Istio; Hystrix; Resilience4j; Envoy Proxy
+Service Mesh,Fault Injection,Resilience; Maintainability,Istio; Chaos Mesh
+Service Mesh,"Log, Trace, Metrics Integration",Observability; Performance Efficiency,Prometheus; Grafana; Jaeger; Zipkin; OpenTelemetry
+Service Mesh,Mutual TLS (mTLS)  Authentication,Security,Istio; Linkerd; Consul
+Service Mesh,Service Authorization Policies,Security,Istio; Kuma; Open Policy Agent (OPA)
+Service Mesh,Traffic Shadowing/Mirroring,Reliability; Performance Efficiency,Istio; Envoy Proxy; Linkerd
+API Gateway,Dynamic Request Routing,Reliability,Kong; NGINX; Traefik; Ambassador
+API Gateway,Rate Limiting,Reliability; Security,Kong; Tyk; NGINX; AWS API Gateway
+API Gateway,Request Validation,Security,Kong; AWS API Gateway; NGINX
+API Gateway,Token-Based Authentication,Security,OAuth2; JWT
+API Gateway,Role-Based Access Control (RBAC),Security,Keycloak; Auth0; AWS IAM
+API Gateway,API Transformation,Portability; Maintainability,Kong; Apigee; MuleSoft
+Infrastructure as Code (IaC),Automated Provisioning,Maintainability,Terraform; Ansible; Pulumi; Chef
+Infrastructure as Code (IaC),Deployment Modularization,Maintainability; Portability,Terraform; Ansible; Helm
+Infrastructure as Code (IaC),IaC Security Scanning,Security,Checkov; tfsec; Snyk IaC
+Infrastructure as Code (IaC),Infrastructure Code Testing,Reliability; Maintainability,Terratest; InSpec
+Infrastructure as Code (IaC),Idempotent Deployments,Reliability; Maintainability,Ansible; Terraform; Pulumi
+Continuous Integration/Delivery (CI/CD),Automated Testing,Reliability; Maintainability,Jenkins; GitLab CI/CD; CircleCI; Travis CI; GitHub Actions
+Continuous Integration/Delivery (CI/CD),Pipeline as Code,Maintainability,Jenkinsfile; GitLab CI YAML; AWS CodePipeline
+Continuous Integration/Delivery (CI/CD),Vulnerability Scanning,Security; Reliability,Snyk; WhiteSource; Nessus; Aqua Security
+Continuous Integration/Delivery (CI/CD),Automated Deployment,Performance Efficiency; Maintainability,Argo CD; GitLab CI/CD; Jenkins
+Application Monitoring,Log Aggregation,Observability,ELK Stack; Fluentd; Graylog; Splunk
+Application Monitoring,Distributed Tracing,Observability,Jaeger; Zipkin; OpenTelemetry; Datadog APM
+Application Monitoring,Metrics Collection,Observability,Prometheus; Grafana; Datadog; New Relic
+Application Monitoring,Comprehensive Instrumentation,Observability,OpenTelemetry; AppDynamics; New Relic; Dynatrace
+Application Monitoring,Centralized Data Storage,Observability; Maintainability,Elasticsearch; InfluxDB; TimescaleDB
+Application Monitoring,Visualization & Dashboarding,Observability; Maintainability,Grafana; Kibana; Datadog; Tableau
+Application Monitoring,Alerting and Notifications,Reliability; Observability,Prometheus Alertmanager;
+Application Monitoring,Anomaly Detection,Reliability; Security,Datadog; Splunk ITSI; Elastic APM; Dynatrace
+Service Discovery,Dynamic Service Registration,Scalability; Reliability; Performance Efficiency,Consul; Eureka; Zookeeper
+Service Discovery,Server-Side Discovery,Scalability; Reliability,Consul; Eureka; Netflix OSS
+Service Discovery,Client-Side Discovery,Scalability; Performance Efficiency,Ribbon; Feign; Zookeeper; Consul
+Chaos Engineering,Failure Injection,Resilience; Reliability,Chaos Monkey; Chaos Mesh; Gremlin
+Chaos Engineering,Fault Tolerance Testing,Resilience; Reliability,Gremlin; Chaos Toolkit; PowerfulSeal
+Chaos Engineering,System Recovery Validation,Reliability; Resilience,Gremlin; LitmusChaos; Chaos Toolkit
+Chaos Engineering,Chaos Experiment Automation,Resilience; Reliability,Chaos Mesh; LitmusChaos; Gremlin
+Streaming and Messaging,Message Brokers,Scalability; Reliability; Performance Efficiency,Apache Kafka; RabbitMQ; Apache ActiveMQ
+Streaming and Messaging,Publish/Subscribe Pattern,Scalability; Performance Efficiency,Apache Kafka; Google Pub/Sub; Redis Pub/Sub
+Streaming and Messaging,Event Streaming,Scalability; Performance Efficiency; Reliability,Apache Kafka; AWS Kinesis; Azure Event Hubs
+Streaming and Messaging,Dead Letter Queues,Reliability; Maintainability,Amazon SQS DLQ; Azure Service Bus; RabbitMQ
+Streaming and Messaging,Message Replay,Reliability; Resilience,Apache Kafka; Event Store; Azure Event Hubs
+Serverless,Function-as-a-Service (FaaS),Scalability; Performance Efficiency; Resilience,AWS Lambda; Azure Functions; Google Cloud Functions
+Serverless,Container-as-a-Service (CaaS),Scalability; Performance Efficiency; Portability,AWS Fargate; Google Cloud Run; Azure Container Instances
+Microservices Architecture,Service Decomposition,Scalability; Maintainability; Reliability,
+Microservices Architecture,Bounded Contexts,Maintainability; Portability,
+Microservices Architecture,API Design and Versioning,Maintainability; Reliability,OpenAPI (Swagger); GraphQL; gRPC
+Microservices Architecture,Data Decentralization,Scalability; Reliability,
+Microservices Architecture,Inter-Service Communication,Performance Efficiency; Reliability,REST APIs; gRPC; Message Queues
+Data Management and Persistence,Database-as-a-Service (DBaaS),Reliability; Performance Efficiency,Amazon RDS; Azure SQL Database; Google Cloud SQL; MongoDB Atlas
+Data Management and Persistence,Data Replication and Sharding,Scalability; Reliability,Apache Cassandra; CockroachDB; MySQL Cluster
+Data Management and Persistence,Cache Management,Performance Efficiency; Reliability,Redis; Memcached; Amazon ElastiCache
+Data Management and Persistence,Data Backup and Recovery,Reliability; Resilience,AWS Backup; Velero; Azure Backup
+Compliance and Governance,Compliance Auditing,Security; Maintainability,AWS Config; Azure Policy; Google Cloud Security Command Center
+Compliance and Governance,Access Control Policies,Security,
+Compliance and Governance,Governance Frameworks,Maintainability; Security,AWS Organizations; Azure Management Groups; Cloud Custodian
+Compliance and Governance,Policy as Code,Security; Maintainability,Open Policy Agent (OPA); Terraform Sentinel; Conftest; Kyverno
+Compliance and Governance,Resource Tagging and Classification,Maintainability; Performance Efficiency,
