@@ -1,7 +1,7 @@
 # Overview of commonly adopted cloud-native tools
 
 A overview of popular tools categorized by high-level practices, including both vendor-neutral and vendor-dependent options. This guide provides descriptions and links to each tool to help developers choose the right solutions.
-The complete set of tools can be found in the map.md file.
+A more complete set of tools can be found in the map.md file.
 
 ---
 
